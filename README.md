@@ -2,9 +2,10 @@
   <img alt="gobarber" src="./assets/capa.png" width="auto" heigth="auto"/>
 </div>
 
-<div align="center" style="margin: 20px;">
+</br>
+</br>
 
-
+<div align="center">
   <p align="center" >
     <a href="#-sobre"> Sobre </a> |
     <a href="#-prévia"> Prévia </a> |
@@ -29,7 +30,7 @@ Para acessar o aplicativo, [clique aqui](https://github.com/thudf/gobarber-app).
 ## 💡 Prévia
 
 <div align="center"> 
-  <img src="https://media.giphy.com/media/dCcZxRtIGk67EzC66n/giphy.gif" alt="preview" width="350px" height="auto"/>
+  <img src="https://media.giphy.com/media/dCcZxRtIGk67EzC66n/giphy.gif" alt="preview" width="700px" height="auto"/>
 </div>
 
 ## 🚀 Tecnologias
@@ -50,6 +51,5 @@ Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENS
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40px">
   <p>por <strong> Arthur D'Afonseca e Silva</strong> </p>
 </div>

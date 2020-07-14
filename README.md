@@ -6,10 +6,10 @@
 
 
   <p align="center" >
-    <a href="#sobre"> Sobre </a> |
-    <a href="#prévia"> Prévia </a> |
-    <a href="#tecnologias"> Tecnologias </a> |
-    <a href="#licença"> Licença </a> 
+    <a href="#-sobre"> Sobre </a> |
+    <a href="#-prévia"> Prévia </a> |
+    <a href="#-tecnologias"> Tecnologias </a> |
+    <a href="#-licença"> Licença </a> 
   </p>
 
 </div>
@@ -29,10 +29,10 @@ Para acessar o aplicativo, [clique aqui](https://github.com/thudf/gobarber-app).
 ## 💡 Prévia
 
 <div align="center"> 
-  <img src="https://media.giphy.com/media/dCcZxRtIGk67EzC66n/giphy.gif" alt="preview"/>
+  <img src="https://media.giphy.com/media/dCcZxRtIGk67EzC66n/giphy.gif" alt="preview" width="auto" height="auto"/>
 </div>
 
-### ⚙️ Tecnologias
+## ⚙️ Tecnologias
 
 As princiais tecnologias utilizadas:
 
@@ -43,7 +43,7 @@ As princiais tecnologias utilizadas:
 - [Yup](https://github.com/jquense/yup)
 - [Styled-Components](https://styled-components.com/)
 
-### 🖊 Licença
+## 🖊 Licença
 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para saber mais detalhes.
 

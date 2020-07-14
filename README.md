@@ -8,7 +8,7 @@
   <p align="center" >
     <a href="#-sobre"> Sobre </a> |
     <a href="#-prévia"> Prévia </a> |
-    <a href="#-tecnologias-usadas"> Tecnologias Usadas </a> |
+    <a href="#-tecnologias"> Tecnologias </a> |
     <a href="#-licença"> Licença </a> 
   </p>
 

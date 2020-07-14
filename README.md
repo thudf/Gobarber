@@ -8,7 +8,7 @@
   <p align="center" >
     <a href="#-sobre"> Sobre </a> |
     <a href="#-prévia"> Prévia </a> |
-    <a href="#-tecnologias"> Tecnologias </a> |
+    <a href="#-tecnologias-usadas"> Tecnologias Usadas </a> |
     <a href="#-licença"> Licença </a> 
   </p>
 
@@ -29,10 +29,10 @@ Para acessar o aplicativo, [clique aqui](https://github.com/thudf/gobarber-app).
 ## 💡 Prévia
 
 <div align="center"> 
-  <img src="https://media.giphy.com/media/dCcZxRtIGk67EzC66n/giphy.gif" alt="preview" width="auto" height="auto"/>
+  <img src="https://media.giphy.com/media/dCcZxRtIGk67EzC66n/giphy.gif" alt="preview" width="350px" height="auto"/>
 </div>
 
-## ⚙️ Tecnologias
+## 🚀 Tecnologias
 
 As princiais tecnologias utilizadas:
 
@@ -47,7 +47,9 @@ As princiais tecnologias utilizadas:
 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para saber mais detalhes.
 
-<div align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">
+---
+
+<div align="center">
   <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40px">
   <p>por <strong> Arthur D'Afonseca e Silva</strong> </p>
 </div>
